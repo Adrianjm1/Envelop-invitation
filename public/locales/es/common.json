@@ -1,0 +1,20 @@
+{
+    "greeting": "Hola",
+    "farewell": "Adiós",
+    "home": {
+        "title": "Inicio",
+        "description": "Esta es la página de inicio"
+    },
+    "about": {
+        "title": "Acerca de",
+        "description": "Esta es la página acerca de"
+    },
+    "contact": {
+        "title": "Contacto",
+        "description": "Esta es la página de contacto"
+    },
+    "error": {
+        "notFound": "Página no encontrada",
+        "serverError": "Error del servidor"
+    }
+}
